@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'vs2015-win2010'
+  vmImage: 'ubuntu-latest'
 
 steps:
 - script: echo Hello, world!
