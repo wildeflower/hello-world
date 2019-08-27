@@ -1,3 +1,4 @@
+[![Build Status](https://spiritcircle.visualstudio.com/Beginners/_apis/build/status/wildeflower.hello-world?branchName=master)](https://spiritcircle.visualstudio.com/Beginners/_build/latest?definitionId=1&branchName=master)
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
